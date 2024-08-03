@@ -9,7 +9,7 @@ This project is an IMDB-like website where users can search for movies, view det
 - **Favorites List**: Users can add movies to their favorites list or remove them.
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript, ReactJS
+- **Frontend**: HTML, CSS, JavaScript
 - **API**: The Movie Database OMDb API
 
 ## LIVE
