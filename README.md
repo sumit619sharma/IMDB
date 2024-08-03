@@ -1,7 +1,17 @@
-# IMDB Clone
- This is an IMDB clone using HTML, CSS, JS and OMDB API
+# IMDB 
 
-Live Link :- https://rajeevkrs.github.io/IMDB-Clone/
+## Project Description
+This project is an IMDB-like website where users can search for movies, view details of particular movies, and manage their favorite list by adding or removing movies.
 
+## Features
+- **Search Movies**: Users can search for movies by title.
+- **Movie Details**: Users can view detailed information about a particular movie.
+- **Favorites List**: Users can add movies to their favorites list or remove them.
 
-If you like my project, make sure to give a star to my repository !!
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript, ReactJS
+- **API**: The Movie Database OMDb API
+
+## LIVE
+- https://sumit619sharma.github.io/IMDB/
+
