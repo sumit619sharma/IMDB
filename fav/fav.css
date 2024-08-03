@@ -1,0 +1,25 @@
+.result-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: rgb(122, 120, 120);
+    padding: 10px;
+    border-radius: 10px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.delete-btn{
+    font-size: 1.5rem;
+    border: none;
+    outline: none;
+    color: #fff;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgb(193, 175, 10);
+    position: absolute;
+    top: 2%;
+    right: 1%;
+    cursor: pointer;
+}
+
